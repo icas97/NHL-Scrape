@@ -8,3 +8,7 @@ This program exports a CSV to :    'D:/Py4e/Beautiful Soup Tutorials/techwithtim
 Webpage Scraped: https://www.scrapethissite.com/pages/forms/
 
 Output used in Visualization in Tableau Public
+
+
+Data Visualization can be seen at:
+https://public.tableau.com/app/profile/isaac.borland/viz/NHLStatistics_16914539523760/Offsensevs_Defense
